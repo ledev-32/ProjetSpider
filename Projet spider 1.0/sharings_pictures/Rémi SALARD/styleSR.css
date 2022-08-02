@@ -1,0 +1,27 @@
+figure
+{
+	font-size: 20;
+	text-align: center;
+	border: 5px blue dashed;
+}
+
+#conteneur1
+{
+    display: flex;
+	flex-wrap: wrap;
+	border: 2px black solid;
+	background-color: #ffffff;
+}
+
+#conteneur2
+{
+	display: flex;
+	flex-wrap: wrap;
+	border: 2px black solid;
+	background-color: #ffffff;
+}
+
+body
+{
+	background-image: url("images.jpg");
+}
